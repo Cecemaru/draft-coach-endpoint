@@ -1,5 +1,5 @@
 {
-  "url": null,
-  "status": "not-published",
-  "note": "The engine is not published yet. The address goes here once the server is hardened for public traffic."
+  "url": "https://cool-logs-surfing-domestic.trycloudflare.com",
+  "updated_at": "2026-09-24T11:00:01Z",
+  "note": "Where DraftCoach.exe looks for the engine. The tunnel address moves; this file does not."
 }
